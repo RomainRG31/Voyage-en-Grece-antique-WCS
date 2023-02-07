@@ -1,21 +1,13 @@
 header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-top: 57px;
+    background: #f4f4f4;
+    text-align: center;
+    padding: 2em;
 }
 
 header img {
-    height: 15%;
+    max-width: 96px;
 }
 
-@media only screen and (max-width : 640px) {
-
-    header {
-        flex-direction: column;
-        margin-top: 30px;
-        justify-content: space-around;
-        height: 9em;
-    }
-
+header h1 {
+    font-size: 2.5em;
 }

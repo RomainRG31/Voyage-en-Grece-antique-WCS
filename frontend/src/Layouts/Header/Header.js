@@ -10,6 +10,7 @@ const Header = () => {
     return (
         <header>
             <img src={Logo} alt="Logo" />
+            <h1>Les Argonaut(e)s</h1>
         </header>
     );
 

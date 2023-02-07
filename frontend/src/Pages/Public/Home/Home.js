@@ -45,7 +45,7 @@ const Home = () => {
     if (isLoading) return (<h3>Chargement...</h3>)
     return (
         <section className="SectionAccueil">
-            <h1>Ajouter un(e) Argonaute</h1>
+            <h2>Ajouter un(e) Argonaute</h2>
 
             <form className="new-member-form" onSubmit={SendApi}>
                 <label htmlFor="name">Nom de l'Argonaute</label>
@@ -53,7 +53,7 @@ const Home = () => {
                 <button type="submit">Envoyer</button>
             </form>
 
-            <h2>Membres de l'équipage</h2>
+            <h3>Membres de l'équipage</h3>
             <ul>
                 {
                     Users.map((user) =>

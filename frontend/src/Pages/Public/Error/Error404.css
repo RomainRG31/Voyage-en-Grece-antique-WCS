@@ -1,0 +1,40 @@
+.page-404 {
+    width: 95%;
+    margin: 0 auto;
+    text-align: center
+}
+
+.titre-404 {
+    color: #FF6060;
+    font-size: 288px;
+    line-height: 410.69px;
+    font-weight: 700;
+    margin-top: 5%;
+}
+
+.description-404 {
+    color: #FF6060;
+    font-weight: 500;
+    line-height: 25.67px;
+    font-size: 36px;
+}
+
+.lien-site.lien-404 {
+    display: block;
+    margin-top: 182px;
+    color: #FF6060;
+}
+
+@media screen and (max-width: 1024px) {
+
+    .titre-404 {
+        font-size: 96px;
+        line-height: 136.9px;
+    }
+
+    .description-404 {
+        font-size: 18px;
+        line-height: 51.34px;
+
+    }
+}
