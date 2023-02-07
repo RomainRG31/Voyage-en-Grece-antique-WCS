@@ -8,7 +8,9 @@ Le sujet du test technique pour intégrer l'école de la Wild Code School porte 
 
 Si vous ne possédez pas nodeJS, je vous invite à le télécharger ci-joint : [https://nodejs.org/en/]. Vous pouvez vérifier si l'installation a bien fonctionné en tapant la commande : `node --version` dans votre terminal.
 
-# Initialisation du projet -  ! Lancer d'abord le back puis le front !
+# Initialisation du projet
+
+# ! Lancer d'abord le back puis le front !
 
 ## Backend
 
