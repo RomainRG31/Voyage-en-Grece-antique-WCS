@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    line-height: 1.15;
+    height: 100%;
+    /* 1 */
+}
+
+h1 {
+    font-size: 2em;
+}
+
+ul,
+ol {
+    list-style: none;
+}
+
+.stop {
+    clear: both;
+}
+
+strong {
+    font-weight: normal;
+}
+
+img {
+    border-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+button {
+    cursor: pointer;
+    background: none;
+    border: none;
+}
+
+br {
+    margin-bottom: 10px;
+}

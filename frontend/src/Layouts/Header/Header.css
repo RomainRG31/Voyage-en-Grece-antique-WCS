@@ -1,0 +1,21 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 57px;
+}
+
+header img {
+    height: 15%;
+}
+
+@media only screen and (max-width : 640px) {
+
+    header {
+        flex-direction: column;
+        margin-top: 30px;
+        justify-content: space-around;
+        height: 9em;
+    }
+
+}
