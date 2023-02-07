@@ -25,7 +25,7 @@ Ce projet a été démarré avec [Create React App](https://github.com/facebook/
 Dirigez vous vers le dossier "frontend" dans votre terminal puis initialisez la commande `npm run starto` pour la partie frontend :
 
 Exécute l'application en mode développement.
-Ouvrez [http://localhost:3000](http://localhost:3000) pour l'afficher dans votre navigateur.
+Ouvrez [http://localhost:3001](http://localhost:3001) pour l'afficher dans votre navigateur.
 
 Bonne découverte :-)
 
