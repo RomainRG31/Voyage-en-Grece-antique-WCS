@@ -1,21 +1,32 @@
-/* * {
-    margin: 0;
-    padding: 0;
-} */
-
 html {
     line-height: 1.15;
     height: 100%;
-    /* 1 */
 }
 
 h1 {
+    font-size: 3em;
+}
+
+h2 {
     font-size: 2.5em;
+
+}
+
+h3 {
+    font-size: 2em;
+    text-align: center;
+
 }
 
 ul,
 ol {
     list-style: none;
+}
+
+.equipage-list {
+    display: grid;
+    grid-template-columns:
+        repeat(3, 1fr);
 }
 
 .stop {
@@ -36,8 +47,7 @@ a {
 
 button {
     cursor: pointer;
-    background: none;
-    border: none;
+    margin-left: 0.3em;
 }
 
 br {

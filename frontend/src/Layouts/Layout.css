@@ -1,26 +1,17 @@
-/* Contenu */
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
 .layout {
     justify-content: space-between;
     height: 100%;
     display: flex;
     flex-direction: column;
-    padding: 0 100px;
+    font-family: 'Roboto', sans-serif;
+
 }
+
+;
 
 main {
     margin-top: 60px;
-}
-
-@media only screen and (max-width : 1024px) {
-    .layout {
-        padding: 0 20px;
-    }
-
-}
-
-@media only screen and (max-width : 640px) {
-    .layout {
-        padding: 0 20px;
-    }
-
 }

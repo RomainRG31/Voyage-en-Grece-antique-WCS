@@ -6,7 +6,7 @@ function Card({ name }) {
 
     return (
         <li className="Card">
-            <h2 className="Card-titre">{name}</h2>
+            <p className="Card-titre">{name}</p>
         </li>
     );
 }

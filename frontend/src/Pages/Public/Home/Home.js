@@ -54,7 +54,7 @@ const Home = () => {
             </form>
 
             <h3>Membres de l'équipage</h3>
-            <ul>
+            <ul className='equipage-list'>
                 {
                     Users.map((user) =>
                         <Card key={user._id} name={user.name} />

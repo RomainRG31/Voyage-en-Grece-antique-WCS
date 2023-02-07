@@ -1,5 +1,4 @@
 
-// fonction récuperation de tous les logements.
 let GetAllUser = async () => {
 
     const response = await fetch('http://localhost:3000/argonautes');
@@ -22,12 +21,8 @@ let CreateUser = (data) => {
         .then(data => {
             return data;
         });
-
-
-
 }
 
-// export des fonctions pour les réutiliser dans les pages.
 export const ApiService = {
     GetAllUser,
     CreateUser

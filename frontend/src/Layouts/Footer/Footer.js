@@ -8,7 +8,7 @@ const Footer = () => {
     return (
         <footer>
             <div className="footer-container">
-                <p>© 2023 Argonautes. Tous droits réservés</p>
+                <p>Réalisé par Jason en Anthestérion de l'an 515 avant JC</p>
             </div>
         </footer>
     );
