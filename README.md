@@ -10,7 +10,7 @@ Si vous ne possédez pas nodeJS, je vous invite à le télécharger ci-joint : [
 
 # Initialisation du projet
 
-# ! Lancer d'abord le back puis le front !
+## [warning](/frontend/src/assets/images/warning.jpg) Lancer d'abord le back, puis le front
 
 ## Backend
 
