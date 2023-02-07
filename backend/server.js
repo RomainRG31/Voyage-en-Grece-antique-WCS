@@ -13,7 +13,7 @@ mongoose
     .then(() =>
         app.listen(process.env.SERVER_PORT, () => {
             console.log(
-                `Le serveur est lancer sur le port ${process.env.SERVER_PORT}. Enjoy !`
+                `Le serveur est lancé sur le port ${process.env.SERVER_PORT}. Enjoy !`
             );
         })
     )
