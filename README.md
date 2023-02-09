@@ -19,7 +19,7 @@ Cloner le répertoire sur votre machine avec `git clone`
 ## Backend
 
 Une API a été créée avec `NodeJS`, `Express` & le système de gestion de base de données `MongoDB`.
-Elle permettra d'afficher & de récupérer les argonautes.
+Elle permettra d'afficher & de récupérer les argonautes. (Le fichier .env est absent par mesure de sécurité. Il faudra me contacter pour l'obtenir.)
 Dirigez vous vers le dossier "backend" dans votre terminal puis initialisez la commande `nodemon server` pour la partie backend.  Le message `Le serveur est lancé sur le port 3000. Enjoy !` s'affiche dans votre terminal, vous êtes connecté.es au backend.
 
 ## Frontend
